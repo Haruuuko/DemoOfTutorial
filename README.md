@@ -1,3 +1,2 @@
-# DemoOfTutorial
-iOS apps
-This repo is for iOS demos from different kinds of tutorials.
+# DemoOfTutorial_Stanford
+This repo is for iOS demos from Stanford CS193P.
